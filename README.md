@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi my name is Rafi, im a student in Esa Unggul University.<br>Student majoring in Information System.</p>
+<p align="center">Hi my name is Rafi, im a college student.<br>Student majoring in Information System.</p>
 
 ###
 
