@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi my name is Rafi, im a student in Esa Unggul University.<br>Student majoring in Information System.</h4>
+<h4 align="center">Hi my name is Rafi, im a student in Esa Unggul University.<br>Student majoring in Information System.</h4>
 
 ###
 
@@ -24,6 +24,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Restartor&fontSize=70&fontColor=ffff&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffffff"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Restartor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -40,12 +46,6 @@
   <a href="https://discord.com/users/783979787420434452" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Restartor&fontSize=70&fontColor=ffff&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffffff"  />
 </div>
 
 ###
